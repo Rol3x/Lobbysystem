@@ -1,0 +1,21 @@
+name: NeuLobby
+main: de.lobby.main.Lobby
+version: 1.0
+
+commands:
+  rankadd:
+  ping:
+  gm:
+  gamemode:
+  chatban:
+  wartungen:
+  fly:
+  rankremove:
+  help:
+  report:
+  ban:
+  unban:
+  globalmute:
+  info:
+  ip:
+  setwarp:
